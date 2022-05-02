@@ -1,0 +1,51 @@
+{
+  "tasks": [
+    {
+      "task": "Make a todo app with Fetch and json-server",
+      "stage": "Done",
+      "id": 1
+    },
+    {
+      "task": "Make a todo app with Axios and json-server",
+      "stage": "Done",
+      "id": 2
+    },
+    {
+      "task": "Write the README file",
+      "stage": "Done",
+      "id": 3
+    },
+    {
+      "task": "Upload on GitHub",
+      "stage": "In progress",
+      "id": 4
+    },
+    {
+      "task": "Share it",
+      "stage": "To do",
+      "id": 5
+    }
+  ],
+  "dioses": [
+    {
+      "id": 1,
+      "nombre": "Athena",
+      "de": "Tierra"
+    },
+    {
+      "id": 2,
+      "nombre": "Poseidón",
+      "de": "Mar"
+    },
+    {
+      "id": 3,
+      "nombre": "Hades",
+      "de": "Inframundo"
+    },
+    {
+      "id": 4,
+      "nombre": "Zeus",
+      "de": "Cielo"
+    }
+  ]
+}
